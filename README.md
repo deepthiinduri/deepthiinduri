@@ -11,6 +11,8 @@ You can click the Preview link to take a look at your changes.
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=deepthiinduri)](https://git.io/streak-stats)
 --->
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepthiinduri&" alt="deepthiinduri" /></p>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepthiinduri&layout=compact&hide_border=true)
 
 
