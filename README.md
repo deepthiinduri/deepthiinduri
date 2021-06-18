@@ -14,5 +14,3 @@ You can click the Preview link to take a look at your changes.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepthiinduri&layout=compact&hide_border=true)
 
 
-![AsynctaskCoffee](https://komarev.com/ghpvc/?username=deepthiinduri)
-
