@@ -8,11 +8,11 @@ deepthiinduri/deepthiinduri is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=deepthiinduri)](https://git.io/streak-stats)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AsynctaskCoffee&layout=compact&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepthiinduri&layout=compact&hide_border=true)
 
 
-![AsynctaskCoffee](https://komarev.com/ghpvc/?username=AsynctaskCoffee)
+![AsynctaskCoffee](https://komarev.com/ghpvc/?username=deepthiinduri)
 
