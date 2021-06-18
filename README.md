@@ -1,6 +1,5 @@
 - 👋 Hi, I’m DEEPTHI
 - 👀 I am a Computer Science student interested in problem solving, coding analysis.
-- 💞️ I'm confident , Innovative, Determined and Fast learner. I have positive attitude and always like to take challenges.
 - 🌱 Presently learning everything that I can, which empowers me to achieve my goal.
 
 <!---
