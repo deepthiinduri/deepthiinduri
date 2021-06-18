@@ -1,4 +1,4 @@
-- 👋 Hi, I’m DEEPTHI
+- 👋 Hii, I’m DEEPTHI
 - 👀 I am a Computer Science student interested in problem solving, coding analysis.
 - 🌱 Presently learning everything that I can, which empowers me to achieve my goal.
 
