@@ -7,6 +7,8 @@ deepthiinduri/deepthiinduri is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
+![Deepthi's Github Stats](https://github-readme-stats.vercel.app/api?username=deepthiinduri&show_icons=true&theme=radical)
+
 <!---
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=deepthiinduri)](https://git.io/streak-stats)
 --->
