@@ -9,9 +9,10 @@ You can click the Preview link to take a look at your changes.
 
 ![Deepthi's Github Stats](https://github-readme-stats.vercel.app/api?username=deepthiinduri&show_icons=true&theme=radical)
 
-<!---
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=deepthiinduri)](https://git.io/streak-stats)
---->
+<p>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=deepthiinduri&theme=dark&hide_border=true" alt="Deepthiinduri - Github Readme Streak Stats" />
+</p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepthiinduri&" alt="deepthiinduri" /></p>
 
