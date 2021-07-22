@@ -12,9 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 ![Deepthi's github stats](https://github-readme-stats.vercel.app/api?username=deepthiinduri&show_icons=true&hide_border=true)
 <br />
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=deepthiinduri.deepthiinduri)
-
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepthiinduri&layout=compact&hide_border=true)
 
-
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=deepthiinduri.deepthiinduri)
