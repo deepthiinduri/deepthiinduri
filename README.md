@@ -6,9 +6,9 @@ You can click the Preview link to take a look at your changes.
 
 ### About Me 🚀
 
-- 👀 I'm currently a Computer Science Student at VVIT, Guntur.
-- 🎓 I’m an Open-Source enthusiast and enjoy learning new things.
-- 👧 Presently, learning everything that I can, which empowers me to achieve my goal and currently I'm working on a few projects.
+- 👀 I'm a Computer Science Undergraduate at VVIT, Guntur.
+- 🎓 I’m enjoy learning new things and explore.
+- 👧 Currently working on a few projects.
 
 ![Deepthi's github stats](https://github-readme-stats.vercel.app/api?username=deepthiinduri&show_icons=true&hide_border=true)
 
